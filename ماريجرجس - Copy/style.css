@@ -1,0 +1,52 @@
+h1{
+    font-size: 50px;
+}
+a{
+    color: black;
+    font-size:200px;
+}
+p{ 
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;}
+
+  
+ body{
+  background-color:rgb(209, 241, 255);
+ } 
+body{
+font-size: x-small;
+}
+
+p{
+  font-size: 40px;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'josefin sane', sans-serif;
+  transition-duration: none;
+}
+
+
+.navbar navbar-expand-lg bg-body-tertiary{
+  font-size: xx-large;
+}
+.nav-link{
+  font-size: x-small;
+}
+.carousel slide{
+  color: blue;
+}
+img {
+  padding: 20px;
+}
+body{
+  /* background-image: url(img/kraza.jpg); */
+  background-size: cover;
+  background-position: center;
+}
+
+   
